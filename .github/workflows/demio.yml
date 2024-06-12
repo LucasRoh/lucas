@@ -1,4 +1,4 @@
-name: Pipeline-Fallbeispiel-Main
+name: Pipeline-Fallbeispiel-Maine
 
 on:
   push:
